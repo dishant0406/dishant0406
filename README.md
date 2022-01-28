@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dishant0406
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javacript/HTML/CSS
+- 🌱 I’m currently learning React and nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
