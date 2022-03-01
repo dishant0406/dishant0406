@@ -2,13 +2,19 @@
 
 
 ## 🚀 About Me
-* Self-taught front-end developer.  
-* Currently leaning React and Blockchain Development. 
+* Self-taught MERN Stack developer.  
+* Currently learning React and Blockchain Development. 
 * Current year resolution is to become a Full-stack Blockchain Developer. 
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, C++, C, React
+HTML, CSS, Javascript, C++, C, React, Nodejs, Expressjs
+
+##Stats
+![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishant0406&show_icons=true&theme=dark)
+
+##Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishant0406&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Other Common Github Profile Sections
