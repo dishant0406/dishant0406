@@ -13,6 +13,9 @@ HTML, CSS, Javascript, C++, C, React, Nodejs, Expressjs
 ## Stats
 ![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishant0406&show_icons=true&theme=dark)
 
+## Total Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/dishant0406/count.svg)
+
 ## Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishant0406&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
