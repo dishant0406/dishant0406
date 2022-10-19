@@ -2,13 +2,13 @@
 
 
 ## 🚀 About Me
-* Self-taught MERN Stack developer.  
-* Currently learning React and Blockchain Development. 
+* Self-taught Developer.  
+* Currently learning Blockchain Development. 
 * Current year resolution is to become a Full-stack Blockchain Developer. 
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, C++, C, React, Nodejs, Expressjs
+HTML, CSS, Javascript, C++, React, Nodejs, Expressjs, Tailwind CSS, Electron, Nextjs
 
 ## Stats
 ![Dishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishant0406&show_icons=true&theme=dark)
@@ -21,9 +21,9 @@ HTML, CSS, Javascript, C++, C, React, Nodejs, Expressjs
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on React E-commerce Website
+👩‍💻 I'm currently working on some amazing projects.
 
-🧠 I'm currently learning Blockchain Development
+🧠 I'm currently learning Blockchain Development using web3.js (following a Udemy Course)
 
 🤔 I'm looking for help with the proper guide to become a Blockchain developer
 
