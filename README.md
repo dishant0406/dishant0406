@@ -32,7 +32,7 @@ HTML, CSS, Javascript, C++, React, Nodejs, Expressjs, Tailwind CSS, Electron, Ne
 📫 How to reach me with the help of links provided below
 
 ## Graph
-[![Dishant's github activity graph](https://activity-graph.herokuapp.com/graph?username=dishant0406&bg_color=000000&color=ff0000&line=99ff00&point=fff5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dishant's github activity graph](https://github-readme-activity-graph.cyclic.app?username=dishant0406&bg_color=000000&color=ff0000&line=99ff00&point=fff5f5&area=true&hide_border=true)]
 
 
 
