@@ -32,7 +32,7 @@ HTML, CSS, Javascript, C++, React, Nodejs, Expressjs, Tailwind CSS, Electron, Ne
 📫 How to reach me with the help of links provided below
 
 ## Graph
-[![Dishant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dishant0406&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dishant0406&theme=react)](https://dishantsharma.dev)
 
 
 
